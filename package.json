@@ -1,0 +1,21 @@
+{
+  "name": "pulunga-fc",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "firebase": "^10.7.1",
+    "lucide-react": "^0.303.0",
+    "tailwindcss": "4.3.0",
+    "@tailwindcss/typography": "0.5.19"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
